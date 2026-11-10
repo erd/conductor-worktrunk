@@ -1,5 +1,6 @@
 {
   "global": {
-    "cmd-shift-n": "mod.open:worktrunk-create"
+    "cmd-shift-n": "mod.open:worktrunk-create",
+    "cmd-shift-backspace": "mod.open:worktrunk-delete"
   }
 }
